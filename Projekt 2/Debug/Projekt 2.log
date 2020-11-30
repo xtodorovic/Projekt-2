@@ -1,0 +1,7 @@
+﻿  Projekt 2.c
+C:\Users\patri\OneDrive\Desktop\Programing lang\VS - Projekt\Projekt 2\Projekt 2\Projekt 2\Projekt 2.c(61,18): warning C4013: 'check_height' undefined; assuming extern returning int
+C:\Users\patri\OneDrive\Desktop\Programing lang\VS - Projekt\Projekt 2\Projekt 2\Projekt 2\Projekt 2.c(66,18): warning C4013: 'check_weight' undefined; assuming extern returning int
+C:\Users\patri\OneDrive\Desktop\Programing lang\VS - Projekt\Projekt 2\Projekt 2\Projekt 2\Projekt 2.c(71,16): warning C4013: 'check_date' undefined; assuming extern returning int
+C:\Users\patri\OneDrive\Desktop\Programing lang\VS - Projekt\Projekt 2\Projekt 2\Projekt 2\Projekt 2.c(287,7): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\patri\OneDrive\Desktop\Programing lang\VS - Projekt\Projekt 2\Projekt 2\Projekt 2\Projekt 2.c(581,24): warning C4013: 'tolower' undefined; assuming extern returning int
+  Projekt 2.vcxproj -> C:\Users\patri\OneDrive\Desktop\Programing lang\VS - Projekt\Projekt 2\Projekt 2\Debug\Projekt 2.exe
